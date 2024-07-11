@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IomarInn.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+392efa053e3db0ff97cb9d3b4bdb499fad03a773")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9570f59afdd296f41627279c65dd1a3f3de4becd")]
 [assembly: System.Reflection.AssemblyProductAttribute("IomarInn.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IomarInn.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

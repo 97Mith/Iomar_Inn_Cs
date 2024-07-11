@@ -1,11 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "docsbr/1.3.1": {
+        "type": "package",
+        "compile": {
+          "lib/net452/DocsBr.dll": {}
+        },
+        "runtime": {
+          "lib/net452/DocsBr.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "docsbr/1.3.1": {
+      "sha512": "UWZReDSJnccO7fbd9kG57aHqzUVjRctmwTdN56DbjXU290O60K42JShqXwn9VSXBJPJNphsL0Aho8c2Hgy0qpw==",
+      "type": "package",
+      "path": "docsbr/1.3.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "docsbr.1.3.1.nupkg.sha512",
+        "docsbr.nuspec",
+        "lib/net452/DocsBr.dll"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "docsbr >= 1.3.1"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\PICHAU\\.nuget\\packages\\": {},
@@ -56,6 +81,12 @@
     "frameworks": {
       "net8.0": {
         "targetAlias": "net8.0",
+        "dependencies": {
+          "docsbr": {
+            "target": "Package",
+            "version": "[1.3.1, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",
@@ -75,5 +106,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'docsbr 1.3.1' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "docsbr",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

@@ -8,7 +8,7 @@ namespace IomarInn.Domain.Validation;
 
 public class Util
 {
-    public void IsNullOrBlank(string value, string namesField)
+    public static void IsNullOrBlank(string value, string namesField)
     {
         DomainExceptionValidation.When
             (
@@ -17,7 +17,7 @@ public class Util
             );
     }
 
-    public void LengthSizeValidation(string value, int min, int max, string namesField)
+    public static void LengthSizeValidation(string value, int min, int max, string namesField)
     {
         DomainExceptionValidation.When
             (
