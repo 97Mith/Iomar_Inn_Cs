@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IomarInn.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dedab2a2285ba125f7b8423feb5aed300f1a0137")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c1912a289350e8581d3107033acae0602c49203")]
 [assembly: System.Reflection.AssemblyProductAttribute("IomarInn.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IomarInn.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

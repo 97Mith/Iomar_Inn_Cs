@@ -7,15 +7,15 @@ public sealed class Company
     int Id { get; set; }
     public Name Name { get; private set; }
     public Name CoReason { get; private set; }
-    public Cnpj Cnpj {  get; private set; } // tipo cnpj
+    public Cnpj Cnpj {  get; private set; }
     public Locality Address {  get; private set; }
-    public string StateInsc {  get; private set; } // tipo SI
+    public StateInscription StateInsc {  get; private set; }
     public string PhoneNumber1 {  get; private set; } // tipo PhoneNumber
     public string PhoneNumber2 {  get; private set; }
     public string PhoneNumber3 {  get; private set; }
-    public string Email {  get; private set; } // tipo Email
+    public Email Email {  get; private set; }
 
-    public Company(int id, Name name, Name coReason, Cnpj cnpj, Locality address /*outros atributos*/)
+    public Company(int id, Name name, Name coReason, Cnpj cnpj, Locality address, StateInscription si  /*outros atributos*/)
     {
         
     }
