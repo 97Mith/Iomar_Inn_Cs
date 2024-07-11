@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Correios.CEP.Net/1.1.6": {
+        "type": "package",
+        "compile": {
+          "lib/Correios.Net.dll": {}
+        },
+        "runtime": {
+          "lib/Correios.Net.dll": {}
+        }
+      },
       "docsbr/1.3.1": {
         "type": "package",
         "compile": {
@@ -14,6 +23,19 @@
     }
   },
   "libraries": {
+    "Correios.CEP.Net/1.1.6": {
+      "sha512": "5xiGLVdvGxlG5SnOYHusZnAyveuxVQaqTkW002iV7sFeWZlhzxaUUE/ghjhnr+dh6ic+HauYnY9zGcg74fzH2Q==",
+      "type": "package",
+      "path": "correios.cep.net/1.1.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "correios.cep.net.1.1.6.nupkg.sha512",
+        "correios.cep.net.nuspec",
+        "lib/Correios.Net.dll",
+        "lib/Correios.Net.pdb"
+      ]
+    },
     "docsbr/1.3.1": {
       "sha512": "UWZReDSJnccO7fbd9kG57aHqzUVjRctmwTdN56DbjXU290O60K42JShqXwn9VSXBJPJNphsL0Aho8c2Hgy0qpw==",
       "type": "package",
@@ -29,6 +51,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Correios.CEP.Net >= 1.1.6",
       "docsbr >= 1.3.1"
     ]
   },
@@ -82,6 +105,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Correios.CEP.Net": {
+            "target": "Package",
+            "version": "[1.1.6, )"
+          },
           "docsbr": {
             "target": "Package",
             "version": "[1.3.1, )"
@@ -108,6 +135,16 @@
     }
   },
   "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'Correios.CEP.Net 1.1.6' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' em vez da estrutura de destino do projeto 'net8.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "Correios.CEP.Net",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
     {
       "code": "NU1701",
       "level": "Warning",
