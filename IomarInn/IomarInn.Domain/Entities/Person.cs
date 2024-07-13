@@ -2,10 +2,8 @@
 
 namespace IomarInn.Domain.Entities;
 
-public sealed class Person
+public sealed class Person : Base
 {
-    public Id Id { get; private set; }
-    public Name FirstName { get; private set; }
     public Name LastName { get; private set; }
     public Cpf Cpf { get; private set; }
     public string PhoneNumber { get; private set; }
@@ -17,7 +15,7 @@ public sealed class Person
     public Person(Id id, Name firstName, Name lastName, Cpf cpf, string phoneNumber, string photo)
     {
         Id = id;
-        FirstName = firstName;
+        Name = firstName;
         LastName = lastName;
         Cpf = cpf;
         PhoneNumber = phoneNumber;
@@ -26,7 +24,7 @@ public sealed class Person
 
     public Person(Name firstName, Name lastName, Cpf cpf, string phoneNumber, string photo)
     {
-        FirstName = firstName;
+        Name = firstName;
         LastName = lastName;
         Cpf = cpf;
         PhoneNumber = phoneNumber;
@@ -35,7 +33,7 @@ public sealed class Person
 
     public void UpdateFirstName(Name firstName)
     {
-        FirstName = firstName;
+        Name = firstName;
     }
 
     public void UpdateLastName(Name lastName)
@@ -58,9 +56,14 @@ public sealed class Person
         Photo = photo;
     }
 
+    public void UpdateCompany(Id companyId, Company company)
+    {
+        CompanyId = companyId;
+        Company = company;
+    }
     public void DeleteFirstName()
     {
-        FirstName = null;
+        Name = null;
     }
 
     public void DeleteLastName()

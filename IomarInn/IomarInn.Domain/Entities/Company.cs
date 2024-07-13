@@ -2,10 +2,8 @@
 
 namespace IomarInn.Domain.Entities;
 
-public sealed class Company
+public sealed class Company : Base
 {
-    public Id Id { get; private set; }
-    public Name Name { get; private set; }
     public Name CoReason { get; private set; }
     public Cnpj Cnpj {  get; private set; }
     public Locality Address {  get; private set; }
