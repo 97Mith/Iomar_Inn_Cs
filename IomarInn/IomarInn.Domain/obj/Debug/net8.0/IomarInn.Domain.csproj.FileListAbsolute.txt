@@ -1,0 +1,13 @@
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain\bin\Debug\net8.0\IomarInn.Domain.deps.json
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain\bin\Debug\net8.0\IomarInn.Domain.dll
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain\bin\Debug\net8.0\IomarInn.Domain.pdb
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain\obj\Debug\net8.0\IomarInn.Domain.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain\obj\Debug\net8.0\IomarInn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain\obj\Debug\net8.0\IomarInn.Domain.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain\obj\Debug\net8.0\IomarInn.Domain.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain\obj\Debug\net8.0\IomarInn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain\obj\Debug\net8.0\IomarInn.Domain.sourcelink.json
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain\obj\Debug\net8.0\IomarInn.Domain.dll
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain\obj\Debug\net8.0\refint\IomarInn.Domain.dll
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain\obj\Debug\net8.0\IomarInn.Domain.pdb
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain\obj\Debug\net8.0\ref\IomarInn.Domain.dll

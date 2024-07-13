@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\bin\Debug\net8.0\IomarInn.Infra.Data.deps.json
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\bin\Debug\net8.0\IomarInn.Infra.Data.dll
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\bin\Debug\net8.0\IomarInn.Infra.Data.pdb
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\bin\Debug\net8.0\IomarInn.Domain.dll
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\bin\Debug\net8.0\IomarInn.Domain.pdb
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\obj\Debug\net8.0\IomarInn.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\obj\Debug\net8.0\IomarInn.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\obj\Debug\net8.0\IomarInn.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\obj\Debug\net8.0\IomarInn.Infra.Data.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\obj\Debug\net8.0\IomarInn.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\obj\Debug\net8.0\IomarInn.Infra.Data.sourcelink.json
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\obj\Debug\net8.0\IomarInn.1403B59F.Up2Date
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\obj\Debug\net8.0\IomarInn.Infra.Data.dll
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\obj\Debug\net8.0\refint\IomarInn.Infra.Data.dll
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\obj\Debug\net8.0\IomarInn.Infra.Data.pdb
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\obj\Debug\net8.0\ref\IomarInn.Infra.Data.dll
