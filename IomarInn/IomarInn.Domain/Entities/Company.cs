@@ -14,7 +14,7 @@ public sealed class Company : Base
     public Email Email {  get; private set; }
     public ICollection<Person> Employees { get; set; }
 
-    public Company(Id id, Name name, Name coReason, Cnpj cnpj, Locality address, StateInscription si, string pn1, string pn2, string pn3, Email email)
+    public Company(Id id, Name name, Name coReason, Cnpj cnpj, Locality address, StateInscription? si, string pn1, string? pn2, string? pn3, Email? email)
     {
         Id = id;
         Name = name;
@@ -28,7 +28,7 @@ public sealed class Company : Base
         Email = email;
 
     }
-    public Company(Name name, Name coReason, Cnpj cnpj, Locality address, StateInscription si, string pn1, string pn2, string pn3, Email email)
+    public Company(Name name, Name coReason, Cnpj cnpj, Locality? address, StateInscription? si, string pn1, string? pn2, string? pn3, Email? email)
     {
         Name = name;
         CoReason = coReason;

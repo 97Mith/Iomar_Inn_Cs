@@ -9,16 +9,12 @@ public class Cnpj
 
     public Cnpj(String value)
     {
-        Util.IsNullOrBlank(value, "CNPJ");
-
-        CNPJ cNPJ = new CNPJ(value);
-
         DomainExceptionValidation.When
             (
-                cNPJ.IsValid(), 
+                !CnpjValidation.IsCNPJValid(value), 
                 "CNPJ is invalid."
             );
 
-        Value = cNPJ.ComMascara();
+        Value = value;
     }
 }

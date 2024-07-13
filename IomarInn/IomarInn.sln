@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IomarInn.Domain", "IomarInn.Domain\IomarInn.Domain.csproj", "{D4CF7278-3980-4838-9ABA-44EEB7DC5C89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IomarInn.Domain", "IomarInn.Domain\IomarInn.Domain.csproj", "{D4CF7278-3980-4838-9ABA-44EEB7DC5C89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IomarInn.Application", "IomarInn.Application\IomarInn.Application.csproj", "{2A838C51-FE11-4553-814B-7488FD95C724}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IomarInn.Application", "IomarInn.Application\IomarInn.Application.csproj", "{2A838C51-FE11-4553-814B-7488FD95C724}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IomarInn.Infra.Data", "IomarInn.Infra.Data\IomarInn.Infra.Data.csproj", "{4D5D6F3E-0219-4782-8DC5-968EC460C323}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IomarInn.Infra.Data", "IomarInn.Infra.Data\IomarInn.Infra.Data.csproj", "{4D5D6F3E-0219-4782-8DC5-968EC460C323}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IomarInn.Infra.IoC", "IomarInn.Infra.IoC\IomarInn.Infra.IoC.csproj", "{969A49C9-B5FD-4C57-87B8-A7C38174D6CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IomarInn.Infra.IoC", "IomarInn.Infra.IoC\IomarInn.Infra.IoC.csproj", "{969A49C9-B5FD-4C57-87B8-A7C38174D6CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IomarInn.MAUI", "IomarInn.MAUI\IomarInn.MAUI.csproj", "{A93608AF-C0D5-4768-9EE2-CEF8E9ED36CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IomarInn.MAUI", "IomarInn.MAUI\IomarInn.MAUI.csproj", "{A93608AF-C0D5-4768-9EE2-CEF8E9ED36CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IomarInn.Domain.Tests", "IomarInn.Domain.Tests\IomarInn.Domain.Tests.csproj", "{2E65B90F-9521-45BF-B772-5CB9C34725B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -41,6 +43,10 @@ Global
 		{A93608AF-C0D5-4768-9EE2-CEF8E9ED36CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A93608AF-C0D5-4768-9EE2-CEF8E9ED36CA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A93608AF-C0D5-4768-9EE2-CEF8E9ED36CA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2E65B90F-9521-45BF-B772-5CB9C34725B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E65B90F-9521-45BF-B772-5CB9C34725B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E65B90F-9521-45BF-B772-5CB9C34725B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E65B90F-9521-45BF-B772-5CB9C34725B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

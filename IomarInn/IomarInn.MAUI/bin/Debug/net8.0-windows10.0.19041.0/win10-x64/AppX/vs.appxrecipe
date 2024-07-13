@@ -30,7 +30,7 @@
     <AppXManifest Include="C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-07-11T18:42:30.358</Modified>
+      <Modified>2024-07-13T21:37:18.894</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -40,15 +40,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\IomarInn.MAUI.runtimeconfig.json">
       <PackagePath>IomarInn.MAUI.runtimeconfig.json</PackagePath>
-      <Modified>2024-07-11T18:42:29.937</Modified>
+      <Modified>2024-07-13T21:37:18.625</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\IomarInn.MAUI.dll">
       <PackagePath>IomarInn.MAUI.dll</PackagePath>
-      <Modified>2024-07-11T18:42:28.785</Modified>
+      <Modified>2024-07-13T21:37:17.586</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.MAUI\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>IomarInn.MAUI.exe</PackagePath>
-      <Modified>2024-07-11T18:42:28.798</Modified>
+      <Modified>2024-07-13T21:37:17.628</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.MAUI\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -288,7 +288,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.MAUI\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\IomarInn.MAUI.deps.json">
       <PackagePath>IomarInn.MAUI.deps.json</PackagePath>
-      <Modified>2024-07-11T18:42:29.802</Modified>
+      <Modified>2024-07-13T21:37:18.509</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>
@@ -580,19 +580,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\bin\Debug\net8.0\IomarInn.Application.dll">
       <PackagePath>IomarInn.Application.dll</PackagePath>
-      <Modified>2024-07-11T18:42:21.857</Modified>
+      <Modified>2024-07-13T21:37:15.799</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain\bin\Debug\net8.0\IomarInn.Domain.dll">
       <PackagePath>IomarInn.Domain.dll</PackagePath>
-      <Modified>2024-07-11T18:42:14.327</Modified>
+      <Modified>2024-07-13T21:37:15.243</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.Data\bin\Debug\net8.0\IomarInn.Infra.Data.dll">
       <PackagePath>IomarInn.Infra.Data.dll</PackagePath>
-      <Modified>2024-07-11T18:42:22.407</Modified>
+      <Modified>2024-07-13T21:37:15.618</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.IoC\bin\Debug\net8.0\IomarInn.Infra.IoC.dll">
       <PackagePath>IomarInn.Infra.IoC.dll</PackagePath>
-      <Modified>2024-07-11T18:42:22.947</Modified>
+      <Modified>2024-07-13T21:37:15.959</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.maui.controls.compatibility\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>

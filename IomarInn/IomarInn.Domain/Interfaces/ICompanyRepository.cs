@@ -1,5 +1,13 @@
-﻿namespace IomarInn.Domain.Interfaces;
+﻿using IomarInn.Domain.Entities;
+using IomarInn.Domain.ValueObjects;
 
-internal interface ICompanyRepository
+namespace IomarInn.Domain.Interfaces;
+
+public interface ICompanyRepository
 {
+    Task<IEnumerable<Company>> GetCompaniesAsync();
+    Task<Company> GetByIdAsync(Id? id);
+    Task<Company> CreateAsync(Person person);
+    Task<Company> UpdateAsync(Person person);
+    Task<Company> RemoveAsync(Person person);
 }
