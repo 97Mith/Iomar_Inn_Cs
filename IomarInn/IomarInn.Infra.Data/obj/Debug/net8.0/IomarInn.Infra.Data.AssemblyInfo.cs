@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IomarInn.Infra.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+392efa053e3db0ff97cb9d3b4bdb499fad03a773")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+618c16b432895005ab9ecc218fa1db3eaff17143")]
 [assembly: System.Reflection.AssemblyProductAttribute("IomarInn.Infra.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IomarInn.Infra.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

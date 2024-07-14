@@ -1,0 +1,16 @@
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\bin\Debug\net8.0\IomarInn.Application.deps.json
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\bin\Debug\net8.0\IomarInn.Application.dll
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\bin\Debug\net8.0\IomarInn.Application.pdb
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\bin\Debug\net8.0\IomarInn.Domain.dll
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\bin\Debug\net8.0\IomarInn.Domain.pdb
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\obj\Debug\net8.0\IomarInn.Application.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\obj\Debug\net8.0\IomarInn.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\obj\Debug\net8.0\IomarInn.Application.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\obj\Debug\net8.0\IomarInn.Application.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\obj\Debug\net8.0\IomarInn.Application.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\obj\Debug\net8.0\IomarInn.Application.sourcelink.json
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\obj\Debug\net8.0\IomarInn.C3CD888D.Up2Date
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\obj\Debug\net8.0\IomarInn.Application.dll
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\obj\Debug\net8.0\refint\IomarInn.Application.dll
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\obj\Debug\net8.0\IomarInn.Application.pdb
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Application\obj\Debug\net8.0\ref\IomarInn.Application.dll

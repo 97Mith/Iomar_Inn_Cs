@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\IomarInn.Domain\IomarInn.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
