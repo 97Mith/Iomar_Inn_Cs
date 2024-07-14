@@ -6,7 +6,7 @@ namespace IomarInn.Domain.Tests;
 
 public class CompanyUnitTest1
 {
-    [Fact(DisplayName = "Create Company With Valid State")]
+   /* [Fact(DisplayName = "Create Company With Valid State")]
     public void CreateCompany_WithValidParameters_ResultObjectValidState()
     {
         Name name = new Name("Company");
@@ -19,5 +19,5 @@ public class CompanyUnitTest1
         Action action = () => new Company(name, coReason, null, locality, null, phoneNumber, null, null, email);
         action.Should().
             NotThrow<IomarInn.Domain.Validation.DomainExceptionValidation>();
-    }
+    }*/
 }

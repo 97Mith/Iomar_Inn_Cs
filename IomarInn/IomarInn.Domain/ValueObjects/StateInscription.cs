@@ -1,11 +1,10 @@
-﻿using DocsBr;
-using IomarInn.Domain.Validation;
+﻿using IomarInn.Domain.Validation;
 
 namespace IomarInn.Domain.ValueObjects;
 
 public class StateInscription
 {
-    public readonly string Value;
+    /*public readonly string Value;
 
     public StateInscription(string value, string uf)
     {
@@ -30,6 +29,6 @@ public class StateInscription
             );
 
         Value = iE.ToString();
-    }
+    }*/
 
 }

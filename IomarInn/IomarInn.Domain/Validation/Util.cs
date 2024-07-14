@@ -13,7 +13,7 @@ public class Util
         DomainExceptionValidation.When
             (
                 string.IsNullOrEmpty(value),
-                $"{namesField}, cannot be blank."
+                $"{namesField} cannot be null or blank."
             );
     }
 
@@ -22,13 +22,12 @@ public class Util
         DomainExceptionValidation.When
             (
                 value.Length < min,
-                $"{namesField}, must have {min} characters at least."
+                $"{namesField} length must be between {min} and {max} characters."
             );
-
         DomainExceptionValidation.When
             (
                 value.Length > max,
-                $"{namesField}, must cannot have more than {max} characters."
+                $"{namesField} length must be between {min} and {max} characters."
             );
     }
 }

@@ -8,8 +8,6 @@ C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain.Tests\bin\De
 C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain.Tests\bin\Debug\net8.0\IomarInn.Domain.Tests.runtimeconfig.json
 C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain.Tests\bin\Debug\net8.0\IomarInn.Domain.Tests.dll
 C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain.Tests\bin\Debug\net8.0\IomarInn.Domain.Tests.pdb
-C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain.Tests\bin\Debug\net8.0\Correios.Net.dll
-C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain.Tests\bin\Debug\net8.0\DocsBr.dll
 C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain.Tests\bin\Debug\net8.0\FluentAssertions.dll
 C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain.Tests\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
 C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Domain.Tests\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll

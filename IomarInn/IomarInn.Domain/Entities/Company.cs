@@ -6,7 +6,7 @@ public sealed class Company : Base
 {
     public Name CoReason { get; private set; }
     public Cnpj Cnpj {  get; private set; }
-    public Locality Address {  get; private set; }
+    public Address Address {  get; private set; }
     public StateInscription StateInsc {  get; private set; }
     public string PhoneNumber1 {  get; private set; } // tipo PhoneNumber
     public string PhoneNumber2 {  get; private set; }
@@ -14,7 +14,7 @@ public sealed class Company : Base
     public Email Email {  get; private set; }
     public ICollection<Person> Employees { get; set; }
 
-    public Company(Id id, Name name, Name coReason, Cnpj cnpj, Locality address, StateInscription? si, string pn1, string? pn2, string? pn3, Email? email)
+    public Company(Id id, Name name, Name coReason, Cnpj cnpj, Address address, StateInscription? si, string pn1, string? pn2, string? pn3, Email? email)
     {
         Id = id;
         Name = name;
@@ -28,7 +28,7 @@ public sealed class Company : Base
         Email = email;
 
     }
-    public Company(Name name, Name coReason, Cnpj cnpj, Locality? address, StateInscription? si, string pn1, string? pn2, string? pn3, Email? email)
+    public Company(Name name, Name coReason, Cnpj cnpj, Address? address, StateInscription? si, string pn1, string? pn2, string? pn3, Email? email)
     {
         Name = name;
         CoReason = coReason;
@@ -55,7 +55,7 @@ public sealed class Company : Base
         Cnpj = cnpj;
     }
 
-    public void UpdateAddress(Locality address)
+    public void UpdateAddress(Address address)
     {
         Address = address;
     }

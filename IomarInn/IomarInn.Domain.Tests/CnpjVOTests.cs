@@ -3,7 +3,7 @@ using IomarInn.Domain.ValueObjects;
 
 namespace IomarInn.Domain.Tests;
 
-public class ValueObjectsTest1
+public class CnpjVOTests
 {
     [Fact(DisplayName = "Create CNPJ Valid State")]
     public void CreateCnpj_WithValidParameters_ResultObjectValidState()

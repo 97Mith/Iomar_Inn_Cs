@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IomarInn.MAUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+bb8b57d219be7c8a3ca923c718da54e4eac14c7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2c7da804d19e44a2740b202a58a9a897980fa4e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("IomarInn.MAUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IomarInn.MAUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
