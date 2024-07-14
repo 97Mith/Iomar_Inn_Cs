@@ -12,7 +12,7 @@ public sealed class Person : Base
     public Id CompanyId { get; set; }
     public Company Company { get; set; }
 
-    public Person(Id id, Name firstName, Name lastName, Cpf cpf, string phoneNumber, string photo)
+    public Person(Id id, Name firstName, Name lastName, Cpf cpf, string? phoneNumber, string? photo)
     {
         Id = id;
         Name = firstName;
@@ -22,7 +22,7 @@ public sealed class Person : Base
         Photo = photo;
     }
 
-    public Person(Name firstName, Name lastName, Cpf cpf, string phoneNumber, string photo)
+    public Person(Name firstName, Name lastName, Cpf cpf, string? phoneNumber, string? photo)
     {
         Name = firstName;
         LastName = lastName;

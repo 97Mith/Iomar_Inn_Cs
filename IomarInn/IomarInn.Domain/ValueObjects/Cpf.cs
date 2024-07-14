@@ -6,16 +6,14 @@ public class Cpf
 {
     public readonly string Value;
 
-    /*public Cpf(string value)
+    public Cpf(string value)
     {
-        CPF cPF = new CPF(value);
-
         DomainExceptionValidation.When
             (
-                cPF.IsValid(),
+                !CpfValidation.IsCPFValid(value),
                 "CPF is invalid."
             );
 
-        Value = cPF.ComMascara();
-    }*/
+        Value = value;
+    }
 }

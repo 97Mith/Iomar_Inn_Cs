@@ -7,34 +7,31 @@ public sealed class Company : Base
     public Name CoReason { get; private set; }
     public Cnpj Cnpj {  get; private set; }
     public Address Address {  get; private set; }
-    public StateInscription StateInsc {  get; private set; }
     public string PhoneNumber1 {  get; private set; } // tipo PhoneNumber
     public string PhoneNumber2 {  get; private set; }
     public string PhoneNumber3 {  get; private set; }
     public Email Email {  get; private set; }
     public ICollection<Person> Employees { get; set; }
 
-    public Company(Id id, Name name, Name coReason, Cnpj cnpj, Address address, StateInscription? si, string pn1, string? pn2, string? pn3, Email? email)
+    public Company(Id id, Name name, Name coReason, Cnpj cnpj, Address? address,  string pn1, string? pn2, string? pn3, Email? email)
     {
         Id = id;
         Name = name;
         CoReason = coReason;
         Cnpj = cnpj;
         Address = address;
-        StateInsc = si;
         PhoneNumber1 = pn1;
         PhoneNumber2 = pn2;
         PhoneNumber3 = pn3;
         Email = email;
 
     }
-    public Company(Name name, Name coReason, Cnpj cnpj, Address? address, StateInscription? si, string pn1, string? pn2, string? pn3, Email? email)
+    public Company(Name name, Name coReason, Cnpj cnpj, Address? address, string pn1, string? pn2, string? pn3, Email? email)
     {
         Name = name;
         CoReason = coReason;
         Cnpj = cnpj;
         Address = address;
-        StateInsc = si;
         PhoneNumber1 = pn1;
         PhoneNumber2 = pn2;
         PhoneNumber3 = pn3;
@@ -58,11 +55,6 @@ public sealed class Company : Base
     public void UpdateAddress(Address address)
     {
         Address = address;
-    }
-
-    public void UpdateStateInscription(StateInscription si)
-    {
-        StateInsc = si;
     }
 
     public void UpdatePhoneNumber1(string pn1)

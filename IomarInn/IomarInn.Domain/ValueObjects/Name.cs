@@ -7,8 +7,8 @@ public class Name
 
     public Name(string value)
     {
-        Util.IsNullOrBlank(value, nameof(value));
-        Util.LengthSizeValidation(value, 3, 25, nameof(value));
+        Util.IsNullOrBlank(value, "Name");
+        Util.LengthSizeValidation(value, 3, 25, "Name");
 
         Value = value;
     }
