@@ -10,4 +10,10 @@
     <ProjectReference Include="..\IomarInn.Domain\IomarInn.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Context\" />
+    <Folder Include="EntitiesConfiguration\" />
+	  
+  </ItemGroup>
+
 </Project>
