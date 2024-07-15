@@ -33,4 +33,14 @@ public class Address
         Zip = zip;
 
     }
+    public override string ToString()
+    {
+        return $"{Street};{District};{City};{State};{Zip}";
+    }
+
+    public static Address Parse(string addressString)
+    {
+        var parts = addressString.Split(';');
+        return new Address(parts[0], parts[1], parts[2], parts[3], parts[4]);
+    }
 }

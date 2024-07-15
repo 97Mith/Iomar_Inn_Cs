@@ -16,4 +16,7 @@ public class Id
     
         _id = id;
     }
+    public long ToLong() => _id;
+
+    public static Id Parse(long id) => new Id(id);
 }
