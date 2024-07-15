@@ -1,4 +1,5 @@
-﻿using IomarInn.Domain.ValueObjects;
+﻿using IomarInn.Domain.Validation;
+using IomarInn.Domain.ValueObjects;
 
 namespace IomarInn.Domain.Entities;
 
@@ -13,8 +14,9 @@ public sealed class Company : Base
     public Email Email {  get; private set; }
     public ICollection<Person> Employees { get; set; }
 
-    public Company(Id id, Name name, Name coReason, Cnpj cnpj, Address? address,  string pn1, string? pn2, string? pn3, Email? email)
+    public Company(int id, Name name, Name coReason, Cnpj cnpj, Address? address,  string pn1, string? pn2, string? pn3, Email? email)
     {
+        DomainExceptionValidation.When(id < 0, "Invalid ID");
         Id = id;
         Name = name;
         CoReason = coReason;

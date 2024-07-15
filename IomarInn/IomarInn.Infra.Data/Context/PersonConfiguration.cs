@@ -11,11 +11,6 @@ namespace IomarInn.Infra.Data.Context
         {
             builder.HasKey(x => x.Id);
 
-            builder.Property(x => x.Id)
-                .HasConversion(
-                    v => v.ToLong(),
-                    v => Id.Parse(v));
-
             builder.Property(n => n.Name)
                 .HasMaxLength(50)
                 .IsRequired()
@@ -42,11 +37,6 @@ namespace IomarInn.Infra.Data.Context
 
             builder.Property(p => p.Photo)
                 .HasMaxLength(200);
-
-            builder.Property(p => p.CompanyId)
-                .HasConversion(
-                    v => v.ToLong(),
-                    v => Id.Parse(v));
 
             builder.HasOne(p => p.Company)
                 .WithMany(c => c.Employees)

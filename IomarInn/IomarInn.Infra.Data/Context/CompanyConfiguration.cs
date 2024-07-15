@@ -11,11 +11,6 @@ namespace IomarInn.Infra.Data.Context
         {
             builder.HasKey(x => x.Id);
 
-            builder.Property(x => x.Id)
-                .HasConversion(
-                    v => v.ToLong(),
-                    v => Id.Parse(v));
-
             builder.Property(n => n.Name)
                 .HasMaxLength(50)
                 .IsRequired()
@@ -76,11 +71,11 @@ namespace IomarInn.Infra.Data.Context
                 .HasMaxLength(100);
 
             // Relationship
-            builder.HasMany(e => e.Employees)
+            /*builder.HasMany(e => e.Employees)
                 .WithOne()
                 .HasForeignKey("CompanyId");
 
-            builder.ToTable("Companies");
+            builder.ToTable("Companies");*/
         }
     }
 }

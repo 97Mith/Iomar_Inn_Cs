@@ -1,4 +1,5 @@
-﻿using IomarInn.Domain.ValueObjects;
+﻿using IomarInn.Domain.Validation;
+using IomarInn.Domain.ValueObjects;
 
 namespace IomarInn.Domain.Entities;
 
@@ -9,11 +10,12 @@ public sealed class Person : Base
     public string PhoneNumber { get; private set; }
     public string Photo { get; private set; }
 
-    public Id CompanyId { get; set; }
+    public int CompanyId { get; set; }
     public Company Company { get; set; }
 
-    public Person(Id id, Name firstName, Name lastName, Cpf cpf, string? phoneNumber, string? photo)
+    public Person(int id, Name firstName, Name lastName, Cpf cpf, string? phoneNumber, string? photo)
     {
+        DomainExceptionValidation.When(id < 0, "Invalid ID");
         Id = id;
         Name = firstName;
         LastName = lastName;
@@ -56,7 +58,7 @@ public sealed class Person : Base
         Photo = photo;
     }
 
-    public void UpdateCompany(Id companyId, Company company)
+    public void UpdateCompany(int companyId, Company company)
     {
         CompanyId = companyId;
         Company = company;

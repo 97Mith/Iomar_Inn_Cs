@@ -3,6 +3,6 @@ using IomarInn.Domain.ValueObjects;
 
 public abstract class Base
 {
-    public Id Id { get; protected set; }
+    public int Id { get; protected set; }
     public Name Name { get; protected set; }
 }
