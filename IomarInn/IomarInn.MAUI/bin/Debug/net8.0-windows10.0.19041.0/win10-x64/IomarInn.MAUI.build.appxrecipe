@@ -223,11 +223,53 @@
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.31\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\correios.cep.net\1.1.6\lib\Correios.Net.dll">
-      <PackagePath>Correios.Net.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\azure.core\1.35.0\lib\net6.0\Azure.Core.dll">
+      <PackagePath>Azure.Core.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\docsbr\1.3.1\lib\net452\DocsBr.dll">
-      <PackagePath>DocsBr.dll</PackagePath>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\azure.identity\1.10.3\lib\netstandard2.0\Azure.Identity.dll">
+      <PackagePath>Azure.Identity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\humanizer.core\2.14.1\lib\net6.0\Humanizer.dll">
+      <PackagePath>Humanizer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.bcl.asyncinterfaces\6.0.0\lib\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll">
+      <PackagePath>Microsoft.Bcl.AsyncInterfaces.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\Microsoft.CodeAnalysis.dll">
+      <PackagePath>Microsoft.CodeAnalysis.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll">
+      <PackagePath>Microsoft.CodeAnalysis.CSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll">
+      <PackagePath>Microsoft.CodeAnalysis.CSharp.Workspaces.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll">
+      <PackagePath>Microsoft.CodeAnalysis.Workspaces.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.data.sqlclient\5.1.5\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll">
+      <PackagePath>Microsoft.Data.SqlClient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.entityframeworkcore\8.0.7\lib\net8.0\Microsoft.EntityFrameworkCore.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.entityframeworkcore.abstractions\8.0.7\lib\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.entityframeworkcore.design\8.0.7\lib\net8.0\Microsoft.EntityFrameworkCore.Design.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Design.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.entityframeworkcore.relational\8.0.7\lib\net8.0\Microsoft.EntityFrameworkCore.Relational.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Relational.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.entityframeworkcore.sqlserver\8.0.7\lib\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.SqlServer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.extensions.caching.abstractions\8.0.0\lib\net8.0\Microsoft.Extensions.Caching.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.Caching.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.extensions.caching.memory\8.0.0\lib\net8.0\Microsoft.Extensions.Caching.Memory.dll">
+      <PackagePath>Microsoft.Extensions.Caching.Memory.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.extensions.configuration\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -235,11 +277,29 @@
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.extensions.configuration.abstractions\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.Configuration.Abstractions.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.extensions.configuration.fileextensions\8.0.1\lib\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.FileExtensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.extensions.configuration.json\8.0.0\lib\net8.0\Microsoft.Extensions.Configuration.Json.dll">
+      <PackagePath>Microsoft.Extensions.Configuration.Json.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.extensions.dependencyinjection\8.0.0\lib\net8.0\Microsoft.Extensions.DependencyInjection.dll">
       <PackagePath>Microsoft.Extensions.DependencyInjection.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\8.0.0\lib\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.extensions.dependencymodel\8.0.1\lib\net8.0\Microsoft.Extensions.DependencyModel.dll">
+      <PackagePath>Microsoft.Extensions.DependencyModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.extensions.fileproviders.abstractions\8.0.0\lib\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll">
+      <PackagePath>Microsoft.Extensions.FileProviders.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.extensions.fileproviders.physical\8.0.0\lib\net8.0\Microsoft.Extensions.FileProviders.Physical.dll">
+      <PackagePath>Microsoft.Extensions.FileProviders.Physical.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.extensions.filesystemglobbing\8.0.0\lib\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll">
+      <PackagePath>Microsoft.Extensions.FileSystemGlobbing.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.extensions.logging\8.0.0\lib\net8.0\Microsoft.Extensions.Logging.dll">
       <PackagePath>Microsoft.Extensions.Logging.dll</PackagePath>
@@ -258,6 +318,33 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.graphics.win2d\1.2.0\lib\net6.0-windows10.0.19041.0\Microsoft.Graphics.Canvas.Interop.dll">
       <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.identity.client\4.56.0\lib\net6.0-windows7.0\Microsoft.Identity.Client.dll">
+      <PackagePath>Microsoft.Identity.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.identity.client.extensions.msal\4.56.0\lib\netstandard2.0\Microsoft.Identity.Client.Extensions.Msal.dll">
+      <PackagePath>Microsoft.Identity.Client.Extensions.Msal.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.identity.client.nativeinterop\0.13.8\lib\netstandard2.0\Microsoft.Identity.Client.NativeInterop.dll">
+      <PackagePath>Microsoft.Identity.Client.NativeInterop.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.identitymodel.abstractions\6.35.0\lib\net6.0\Microsoft.IdentityModel.Abstractions.dll">
+      <PackagePath>Microsoft.IdentityModel.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.identitymodel.jsonwebtokens\6.35.0\lib\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll">
+      <PackagePath>Microsoft.IdentityModel.JsonWebTokens.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.identitymodel.logging\6.35.0\lib\net6.0\Microsoft.IdentityModel.Logging.dll">
+      <PackagePath>Microsoft.IdentityModel.Logging.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.identitymodel.protocols\6.35.0\lib\net6.0\Microsoft.IdentityModel.Protocols.dll">
+      <PackagePath>Microsoft.IdentityModel.Protocols.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.identitymodel.protocols.openidconnect\6.35.0\lib\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll">
+      <PackagePath>Microsoft.IdentityModel.Protocols.OpenIdConnect.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.identitymodel.tokens\6.35.0\lib\net6.0\Microsoft.IdentityModel.Tokens.dll">
+      <PackagePath>Microsoft.IdentityModel.Tokens.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.maui.controls.compatibility\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.dll">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.dll</PackagePath>
@@ -279,6 +366,18 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.maui.graphics.win2d.winui.desktop\8.0.61\lib\net8.0-windows10.0.19041\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll">
       <PackagePath>Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.sqlserver.server\1.0.0\lib\netstandard2.0\Microsoft.SqlServer.Server.dll">
+      <PackagePath>Microsoft.SqlServer.Server.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.web.webview2\1.0.864.35\lib\netcoreapp3.0\Microsoft.Web.WebView2.Core.dll">
+      <PackagePath>Microsoft.Web.WebView2.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.web.webview2\1.0.864.35\lib\netcoreapp3.0\Microsoft.Web.WebView2.WinForms.dll">
+      <PackagePath>Microsoft.Web.WebView2.WinForms.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.web.webview2\1.0.864.35\lib\netcoreapp3.0\Microsoft.Web.WebView2.Wpf.dll">
+      <PackagePath>Microsoft.Web.WebView2.Wpf.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\lib\net6.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll">
       <PackagePath>Microsoft.InteractiveExperiences.Projection.dll</PackagePath>
@@ -324,6 +423,192 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\mono.texttemplating\2.2.1\lib\netstandard2.0\Mono.TextTemplating.dll">
+      <PackagePath>Mono.TextTemplating.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\system.composition.attributedmodel\6.0.0\lib\net6.0\System.Composition.AttributedModel.dll">
+      <PackagePath>System.Composition.AttributedModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\system.composition.convention\6.0.0\lib\net6.0\System.Composition.Convention.dll">
+      <PackagePath>System.Composition.Convention.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\system.composition.hosting\6.0.0\lib\net6.0\System.Composition.Hosting.dll">
+      <PackagePath>System.Composition.Hosting.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\system.composition.runtime\6.0.0\lib\net6.0\System.Composition.Runtime.dll">
+      <PackagePath>System.Composition.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\system.composition.typedparts\6.0.0\lib\net6.0\System.Composition.TypedParts.dll">
+      <PackagePath>System.Composition.TypedParts.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\system.identitymodel.tokens.jwt\6.35.0\lib\net6.0\System.IdentityModel.Tokens.Jwt.dll">
+      <PackagePath>System.IdentityModel.Tokens.Jwt.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\system.io.pipelines\6.0.3\lib\net6.0\System.IO.Pipelines.dll">
+      <PackagePath>System.IO.Pipelines.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\system.memory.data\1.0.2\lib\netstandard2.0\System.Memory.Data.dll">
+      <PackagePath>System.Memory.Data.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\system.runtime.caching\6.0.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll">
+      <PackagePath>System.Runtime.Caching.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>cs\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>de\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>es\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>fr\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>it\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>ja\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>ko\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>pl\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>pt-BR\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>ru\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>tr\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.common\4.5.0\lib\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.CodeAnalysis.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>cs\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>de\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>es\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>fr\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>it\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>ja\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>ko\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>pl\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>ru\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>tr\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp\4.5.0\lib\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.csharp.workspaces\4.5.0\lib\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>cs\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>de\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>es\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>fr\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>it\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>ja\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>ko\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>pl\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>ru\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>tr\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.codeanalysis.workspaces.common\4.5.0\lib\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll">
+      <PackagePath>zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\ar\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>ar\Microsoft.Maui.Controls.resources.dll</PackagePath>
@@ -427,8 +712,17 @@
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.maui.controls.core\8.0.61\lib\net8.0-windows10.0.19041\zh-Hant\Microsoft.Maui.Controls.resources.dll">
       <PackagePath>zh-Hant\Microsoft.Maui.Controls.resources.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.data.sqlclient.sni.runtime\5.1.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll">
+      <PackagePath>Microsoft.Data.SqlClient.SNI.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.graphics.win2d\1.2.0\runtimes\win-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.identity.client.nativeinterop\0.13.8\runtimes\win-x64\native\msalruntime.dll">
+      <PackagePath>msalruntime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.web.webview2\1.0.864.35\runtimes\win-x64\native\WebView2Loader.dll">
+      <PackagePath>WebView2Loader.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\PICHAU\.nuget\packages\microsoft.windowsappsdk\1.5.240311000\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>

@@ -20,7 +20,7 @@ public class PersonRepository : IPersonRepository
         await _context.SaveChangesAsync();
         return person;
     }
-
+    //TODO criar um eager loading
     public async Task<Person> GetByIdAsync(int? id)
     {
         return await _context.People.FindAsync(id);

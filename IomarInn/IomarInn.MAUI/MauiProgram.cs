@@ -1,4 +1,8 @@
-﻿using Microsoft.Extensions.Logging;
+﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Maui.Controls.Hosting;
+using Microsoft.Maui.Hosting;
+using IomarInn.Infra.IoC;
 
 namespace IomarInn.MAUI
 {
@@ -16,7 +20,13 @@ namespace IomarInn.MAUI
                 });
 
 #if DEBUG
-    		builder.Logging.AddDebug();
+            var configuration = new ConfigurationBuilder()
+                .SetBasePath(FileSystem.AppDataDirectory)
+                .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
+                .Build();
+
+            builder.Services.AddSingleton<IConfiguration>(configuration);
+            builder.Services.AddInfrastructure(configuration);
 #endif
 
             return builder.Build();

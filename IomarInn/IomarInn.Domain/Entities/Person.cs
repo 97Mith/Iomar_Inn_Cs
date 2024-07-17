@@ -12,6 +12,10 @@ public sealed class Person : Base
 
     public int CompanyId { get; set; }
     public Company Company { get; set; }
+    public Person()
+    {
+        
+    }
 
     public Person(int id, Name firstName, Name lastName, Cpf cpf, string? phoneNumber, string? photo)
     {

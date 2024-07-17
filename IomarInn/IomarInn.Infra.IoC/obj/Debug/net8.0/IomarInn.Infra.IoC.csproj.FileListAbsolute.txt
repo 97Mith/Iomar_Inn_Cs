@@ -18,3 +18,5 @@ C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.IoC\obj\Debug
 C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.IoC\obj\Debug\net8.0\refint\IomarInn.Infra.IoC.dll
 C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.IoC\obj\Debug\net8.0\IomarInn.Infra.IoC.pdb
 C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.IoC\obj\Debug\net8.0\ref\IomarInn.Infra.IoC.dll
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.IoC\bin\Debug\net8.0\IomarInn.Infra.IoC.runtimeconfig.json
+C:\Users\PICHAU\Documents\CS\Projeto em CS\IomarInn\IomarInn.Infra.IoC\obj\Debug\net8.0\IomarInn.Infra.IoC.genruntimeconfig.cache

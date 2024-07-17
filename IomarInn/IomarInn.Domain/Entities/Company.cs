@@ -13,6 +13,10 @@ public sealed class Company : Base
     public string PhoneNumber3 {  get; private set; }
     public Email Email {  get; private set; }
     public ICollection<Person> Employees { get; set; }
+    public Company()
+    {
+        
+    }
 
     public Company(int id, Name name, Name coReason, Cnpj cnpj, Address? address,  string pn1, string? pn2, string? pn3, Email? email)
     {
